@@ -1,5 +1,7 @@
 # 💫 About Me | Sobre Mí  
 
+### 🌍 [English](https://github.com/elAsksito#-english) | 🇪🇸 [Español](https://github.com/elAsksito#-español)  
+
 ### 🌍 English:  
 I am a technology enthusiast with a passion for continuous learning. I've always been curious about how things work, leading me to explore different areas of software development, especially backend and system architecture. I love solving problems, optimizing processes, and creating solutions that are not only functional but also efficient and scalable.  
 
@@ -16,13 +18,17 @@ Disfruto enfrentar desafíos, ya que creo firmemente que cada obstáculo es una 
 
 Aunque tengo una mentalidad perfeccionista, también entiendo que el progreso es más importante que la perfección absoluta. Me esfuerzo por equilibrar la búsqueda de la excelencia con la necesidad de avanzar, aprender de los errores y adaptarme a nuevas situaciones.  
 
-Más allá de la tecnología, valoro el esfuerzo, la dedicación y el compartir conocimientos con otras personas. Me motiva la idea de seguir explorando, descubriendo nuevas formas de hacer las cosas y construyendo proyectos que aporten valor. Siempre estoy abierto a nuevas oportunidades y experiencias que me permitan crecer tanto personal como profesionalmente.  
+Más allá de la tecnología, valoro el esfuerzo, la dedicación y el compartir conocimientos con otras personas. Me motiva la idea de seguir explorando, descubriendo nuevas formas de hacer las cosas y construyendo proyectos que aporten valor. Siempre estoy abierto a nuevas oportunidades y experiencias que me permitan crecer tanto personal como profesionalmente.
 
+## 🗣️ Languages | Idiomas:  
+- **🇪🇸 Español** (Nativo)  
+- **🇬🇧 Inglés** (B2 - Intermedio Alto)  
+- **🇵🇹 Portugués** (Básico)  
 
 ## 🌐 Socials | Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ask.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allxn.sxh@gmail.com) 
 
-# 💻 Tech Stack | :
+# 💻 Tech Stack | Tecnologías:
 
 ### 🚀 **Backend & Frameworks**
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
